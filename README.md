@@ -1,6 +1,8 @@
 ### Description
 
-The objective of this project was to create a dynamic dashboard that provides insights to answer the recommended analysis;
+A small excel dashboard to show the line productivity on a toy dataset. The objecive was to showcase key insights into line productivity.
+
+The objective of this project was to create a dynamic dashboard that provides insights to answer the following recommended analysis;
 1) What's the current line efficiency? (total time / min time)
 2) Are any operators underperforming?
 3) What are the leading factors for downtime?
@@ -21,7 +23,7 @@ The full dataset is linked here [Link](https://mavenanalytics.io/data-playground
 
 ### Initial Insights
 
-- Machine adjustment, machine failure and inventory shortage have taken up the most downtime.
+- Machine adjustment, Machine failure and Inventory shortages have taken up the most downtime.
 - Charlie seems to the most inneficient out of the four employes.
 - Charlie and Dee both have the longest downtime from operator error and both struggled with machine adjustment.
 
